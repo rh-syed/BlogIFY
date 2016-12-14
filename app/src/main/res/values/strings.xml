@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Blogify </string>
+    <string name="default_list_nodatamessage">No text to display</string>
+
+    <string-array name="android_names">
+        <item>HoneyComb</item>
+        <item>Kitkat</item>
+        <item>Marshmallow</item>
+        <item>Lolipop</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>JellyBean</item>
+        <item>Froyo</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Gingerbread</item>
+        <item>Cupcake</item>
+    </string-array>
+</resources>
